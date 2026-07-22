@@ -13,14 +13,19 @@
 
 ## 🎯 Overview
 
-**CypherVantage** is a cutting-edge, AI-driven Third-Party Risk Management (TPRM) platform designed to automate, monitor, and secure your vendor ecosystem. By combining advanced cryptography concepts with real-time attack surface mapping, CypherVantage gives security operations teams the ultimate high-ground perspective to proactively mitigate vendor vulnerabilities before they compromise your perimeter.
+**Cypher Vantage** is an enterprise-grade Op Resilience Management, DORA Compliance, and AI-driven Third-Party Risk Management (TPRM) platform designed to map critical business services, automate compliance audit trails, run TIBER-EU threat-led penetration tests, and secure your vendor ecosystem. By combining real-time attack surface mapping, digital resilience twin graphs, and LLM DLP gateway defenses, Cypher Vantage gives executive board members, CISO teams, and risk managers full operational control.
+
+🌐 **[Live Demo: Cypher Vantage Core Platform Console](https://cyphervantageai.github.io/core-platform/)**
 
 ## ✨ Core Features
 
-*   **Continuous Attack Surface Mapping:** 360-degree, real-time scanning of third-party digital footprints.
-*   **Intelligent Risk Scoring:** Predictive, AI-driven risk models tailored to your organization's specific compliance requirements.
-*   **Automated Vendor Assessments:** Dynamic questionnaire dispatch and automated evidence verification to eliminate compliance bottlenecks.
-*   **Cryptographic Integrity Checks:** Advanced data security monitoring to ensure data shared across your supply chain remains tamper-proof.
+*   **Op Resilience & DORA Cockpit:** Interactive geospatial threat mapping, Important Business Services (IBS) dependency tracking, and automated DORA Pillar 1–5 compliance alignment.
+*   **Executive Disruption Simulator:** Board-level scenario stress testing with 5 C-Suite persona readouts (CRO, COO, CISO, Board, Regulator).
+*   **TIBER-EU / Threat-Led Penetration Testing (TLPT):** Red-team attack permutation drills, BAS simulations, and automated container failover verification.
+*   **Continuous Attack Surface Mapping:** 360-degree, real-time scanning of third-party digital footprints and internal VPN subnets.
+*   **AI Auto-Collector & Evidence Parsing:** Automated document scanning (SOC 2, ISO 27001) and control gap extraction.
+*   **AI Audit Suite & DLP Gateway:** Real-time PII/credential prompt sanitization, LLM jailbreak audit simulations, and EU AI Act risk tiering.
+*   **Cryptographic File Integrity Ledger:** SHA-256 evidence hashing with simulated tampering detection.
 
 ## 🔒 Security
 For security vulnerabilities or exploit disclosures, please do not open a public GitHub issue. Instead, review our SECURITY.md or contact our security response team directly at **security@cyphervantage.ai**.
