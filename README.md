@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>The Enterprise Operational Resilience, Threat-Led Penetration Testing (TLPT), and DORA Compliance Automation Suite</strong>
+  <strong>Enterprise-grade Operational Resilience, Threat-Led Penetration Testing (TLPT), and DORA Compliance Automation Suite</strong>
 </p>
 
 ---
