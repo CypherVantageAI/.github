@@ -9,16 +9,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CypherVantageAI"><img src="https://img.shields.io/badge/Scale-Enterprise-blue?style=for-the-badge&logo=enterprise" alt="Enterprise Badge"></a>
-  <a href="https://cyphervantageai.github.io/"><img src="https://img.shields.io/badge/Live-Demo-06b6d4?style=for-the-badge&logo=google-chrome" alt="Live Demo Badge"></a>
-  <a href="https://github.com/CypherVantageAI/core-platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Proprietary-8b5cf6?style=for-the-badge&logo=shield" alt="Proprietary Badge"></a>
+  <a href="https://github.com/CypherVantageAI"><img src="https://img.shields.io/badge/Scale-Enterprise-blue?style=flat&logo=enterprise" alt="Enterprise Badge"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://cyphervantageai.github.io/"><img src="https://img.shields.io/badge/Live-Demo-06b6d4?style=flat&logo=google-chrome" alt="Live Demo Badge"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/CypherVantageAI/core-platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Proprietary-8b5cf6?style=flat&logo=shield" alt="Proprietary Badge"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EU_DORA-Compliant-10b981?style=flat-square" alt="DORA Status">
-  <img src="https://img.shields.io/badge/TIBER--EU-Aligned-10b981?style=flat-square" alt="TIBER-EU Status">
-  <img src="https://img.shields.io/badge/UK_PRA-Aligned-10b981?style=flat-square" alt="UK PRA Status">
-  <img src="https://img.shields.io/badge/Security-Cryptographic-8b5cf6?style=flat-square" alt="Cryptographic">
+  <img src="https://img.shields.io/badge/EU_DORA-Compliant-10b981?style=flat" alt="DORA Status">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TIBER--EU-Aligned-10b981?style=flat" alt="TIBER-EU Status">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/UK_PRA-Aligned-10b981?style=flat" alt="UK PRA Status">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Security-Cryptographic-8b5cf6?style=flat" alt="Cryptographic">
 </p>
 
 ---
