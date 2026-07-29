@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Total visibility into your third-party ecosystem. Securing your connections.</strong>
+  <strong>The Enterprise Operational Resilience, Threat-Led Penetration Testing (TLPT), and DORA Compliance Automation Suite</strong>
 </p>
 
 ---
