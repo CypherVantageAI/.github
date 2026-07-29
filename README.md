@@ -15,7 +15,7 @@
 
 **Cypher Vantage** is an enterprise-grade Op Resilience Management, DORA Compliance, and AI-driven Third-Party Risk Management (TPRM) platform designed to map critical business services, automate compliance audit trails, run TIBER-EU threat-led penetration tests, and secure your vendor ecosystem. By combining real-time attack surface mapping, digital resilience twin graphs, and LLM DLP gateway defenses, Cypher Vantage gives executive board members, CISO teams, and risk managers full operational control.
 
-🌐 **[Live Demo: Cypher Vantage Core Platform Console](https://cyphervantageai.github.io/core-platform/)**
+🌐 **[Live Demo: Cypher Vantage Core Platform Console](https://cyphervantageai.github.io)**
 
 ## ✨ Core Features
 
