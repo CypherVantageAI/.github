@@ -79,34 +79,35 @@ For licensing, partnerships, or security inquiries, contact our assurance team a
 
 ---
 
-## 🚀 Enterprise AI Operating System (EAIOS)
+## EAIOS
 
 EAIOS is an architecture-led, governed operating model for enterprises where humans and AI Employees work together under explicit authority, accountability, governance, memory, orchestration, and security boundaries.
 
-### What Has Been Achieved
+### Architectural milestones achieved
 
-- **Enterprise AI Workforce model**
-- **AI Employee identity and lifecycle**
-- **Human accountability**
-- **EAIES as execution authority boundary**
-- **AI orchestration**
-- **Enterprise Memory**
-- **AI Service Contracts**
-- **Enterprise Work Item**
-- **Security / adversarial validation**
+- Human accountability
+- AI Employee identity and lifecycle
+- Enterprise AI Workforce model
+- EAIES as the execution-authority boundary
+- AI Service Contracts
+- AI orchestration
+- Enterprise Memory
+- Enterprise Work Item
+- Security/adversarial validation
 
-### Current Checkpoint
+### Current checkpoint
 
-**EAIOS v0.4**
+EAIOS v0.4
 
-Enterprise Work Item implementation completed. Enterprise Work Item established as a governed domain object, with execution authority remaining exclusively within EAIES.
+Enterprise Work Item implementation completed.
 
-**Validation Status:**
-- 103 passed
+The Enterprise Work Item is established as a governed domain object representing enterprise work, while execution authority remains exclusively within EAIES.
+
+### Validation
+
+- 103 tests passed
 - 0 failed
 - 10 skipped
+- 7 Work Item security boundary tests passed
 
-7 Work Item security tests passed.
-
-*Note: Skipped tests remain infrastructure-dependent (PostgreSQL) and are not represented as passed.*
-
+The skipped tests remain infrastructure-dependent PostgreSQL concurrency tests and are not represented as passed.
