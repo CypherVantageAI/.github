@@ -97,17 +97,33 @@ EAIOS is an architecture-led, governed operating model for enterprises where hum
 
 ### Current checkpoint
 
-EAIOS v0.4
+## EAIOS v0.5 — Governed Capability Registry
+
+EAIOS has progressed from governed Work Item representation to governed capability definition and orchestration.
+
+- Capability Registry defines capability requirements.
+- Orchestrator coordinates.
+- EAIES authorises.
+- AI Employees execute only after successful EAIES enforcement.
+
+**Architecture Flow:**
+Work Item → Orchestrator → Capability Registry → EAIES → AI Employee
+
+> Capability definition does not create execution authority.
+
+### Validation
+
+- 123 passed
+- 0 failed
+- 10 skipped
+- 20 Capability Registry boundary tests passed.
+
+The skipped tests remain infrastructure-dependent PostgreSQL concurrency tests and are not represented as passed.
+
+---
+
+### Previous checkpoint: EAIOS v0.4
 
 Enterprise Work Item implementation completed.
 
 The Enterprise Work Item is established as a governed domain object representing enterprise work, while execution authority remains exclusively within EAIES.
-
-### Validation
-
-- 103 tests passed
-- 0 failed
-- 10 skipped
-- 7 Work Item security boundary tests passed
-
-The skipped tests remain infrastructure-dependent PostgreSQL concurrency tests and are not represented as passed.
