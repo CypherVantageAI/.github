@@ -93,11 +93,27 @@ EAIOS is an architecture-led, governed operating model for enterprises where hum
 - AI orchestration
 - Enterprise Memory
 - Enterprise Work Item
+- Governed Capability Registry
+- Multi-Agent Delegation
 - Security/adversarial validation
 
 ### Current checkpoint
 
-## EAIOS v0.5 — Governed Capability Registry
+## EAIOS v0.6 — Governed Multi-Agent Delegation
+
+EAIOS v0.6 introduces **governed multi-agent delegation**, enabling AI Employees to coordinate by decomposing complex work into auditable parent/child task lineage.
+
+Crucially, this release enforces **non-transitive authority**. Delegation is strictly a coordination capability, not an authority-transfer mechanism. An AI Employee cannot grant another AI Employee permission to execute a task it isn't otherwise authorized for.
+
+The architecture enforces:
+- **Independent EAIES Evaluation**: Every delegated sub-task is evaluated independently against the receiving AI Employee's permissions.
+- **Bounded Delegation**: Hard limits on recursion depth and active task initiation to prevent runaway execution.
+- **Auditable Lineage**: Complete traceability of delegation origins.
+- **Separation of Coordination and Authority**: The orchestrator coordinates tasks, while execution authority remains completely isolated.
+
+---
+
+### Previous checkpoint: EAIOS v0.5
 
 EAIOS has progressed from governed Work Item representation to governed capability definition and orchestration.
 
